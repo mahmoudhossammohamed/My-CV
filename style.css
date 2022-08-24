@@ -1,0 +1,41 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.img1{
+    width: 30%;
+    height: 30%;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.left-side{
+    float: left;
+    display: inline;
+}
+.right-side{
+    float: right;
+    margin-right: 23rem;
+    margin-top: 5rem;
+    display: inline;
+}
+.clear-both{
+    clear: both;
+}
+.middle{
+    margin-left: 2rem;
+    margin-top: 5rem;
+}
+.middle h2{
+    color: blue;
+}
+.middle div{
+    margin: 1rem;
+}
+hr{
+    color: blue;
+    border: 1px solid;
+}
+.right-side h1, h3{
+    margin:2px;
+}
